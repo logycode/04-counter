@@ -59,3 +59,7 @@ main {
 .counter {
   font-size: 10rem;
 }
+
+.bg100 {
+  background-color: coral;
+}
